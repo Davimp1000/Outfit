@@ -1,0 +1,9 @@
+CartaoC
+CartaoC$CartaoC$3
+CartaoC$CartaoC$2
+CartaoC$CartaoC
+CartaoC$CartaoC$1
+CartaoC$4
+CartaoC$3
+CartaoC$2
+CartaoC$1
